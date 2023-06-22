@@ -66,7 +66,7 @@ p {
     margin-left: 20px;
 }
 
-.search-engine-optimization {
+.search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -74,7 +74,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* LOOKS LIKE NOT NEEDED AS IT IS COVERED ABOVE
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -92,7 +92,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -129,6 +129,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -140,11 +141,11 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -154,13 +155,15 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+*/
 
-/* WHAT IS THIS CODE FOR? I DON'T SEE IT REFERENCED
-.benefit-lead h3 {
+/* Each header of the benefits page */
+
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -169,8 +172,9 @@ p {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} 
 */
+
 /* this is for the benefit section on the right column */
 .benefit-lead img {
     display: block;
