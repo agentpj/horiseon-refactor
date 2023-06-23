@@ -22,11 +22,12 @@ The website contains the following files:
         search-engine-marketing-jpg
         unabletodownload.png
     
+This website has SEO capability.
 
 The 3 topics on the header have hidden links that bring you to different parts of the page.  Here is a sample photo of the site.
 
 
-![The webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/01-html-css-git-homework-demo.png)
+![The webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/html-css-git-homework-demo.png)
 
 
-
+Repository source: https://github.com/agentpj/horiseon-refactor
