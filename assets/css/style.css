@@ -9,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* this is the code to the header with the 3 topics and links */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -36,7 +37,7 @@ header nav {
 header nav ul {
     list-style-type: none;
 }
-
+/* list the 3 topics inline */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -144,35 +145,12 @@ main {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-*/
-
-/* Each header of the benefits page */
-
+/* Each header of the benefits page on the right column */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/*
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} 
-*/
 
 /* this is for the benefit section on the right column */
 .benefit-lead img {
